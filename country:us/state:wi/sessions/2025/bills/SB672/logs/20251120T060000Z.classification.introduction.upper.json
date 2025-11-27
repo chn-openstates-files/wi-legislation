@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Testin, Jacque, Marklein and Nass; \ncosponsored by Representatives Moses, Dallman, O'Connor, Callahan, Kurtz, Goeben, Piwowarczyk, Mursau, Knodl, Melotik, Behnke and Brill",
+    "date": "2025-11-20T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB672"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk and Quinn; \ncosponsored by Representatives Krug, Knodl, O'Connor, Steffen, Penterman, Armstrong, Kitchens, Allen, Hurd, Murphy, Tittl, Maxey, Snyder, Nedweski, Green, Spiros and Melotik",
+    "date": "2025-10-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB595"
+}

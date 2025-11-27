@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assembly Amendment 1 laid on table, Ayes 54, Noes 43",
+    "date": "2025-11-19T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB156"
+}

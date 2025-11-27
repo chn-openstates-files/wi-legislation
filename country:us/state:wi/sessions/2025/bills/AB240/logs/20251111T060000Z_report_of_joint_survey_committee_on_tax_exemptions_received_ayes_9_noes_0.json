@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Report of joint survey committee on Tax Exemptions received, Ayes 9. Noes 0.",
+    "date": "2025-11-11T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB240"
+}

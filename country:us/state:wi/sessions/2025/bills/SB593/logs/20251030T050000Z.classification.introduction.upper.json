@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Quinn; \ncosponsored by Representatives Callahan and Dittrich, by request of Office of the Commissioner of Insurance",
+    "date": "2025-10-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB593"
+}

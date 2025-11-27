@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced by Senator Tomczyk; \ncosponsored by Representatives B. Jacobson, Miresse, Behnke, Knodl, O'Connor, Penterman, Tittl and Brown",
+    "date": "2025-10-30T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB599"
+}
