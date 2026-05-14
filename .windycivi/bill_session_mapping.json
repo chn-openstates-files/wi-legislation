@@ -1500,9 +1500,9 @@
     "date_folder": "2025-2026"
   },
   "AB1": {
-    "session_id": "2025",
-    "name": "2025-2026 Regular Session",
-    "date_folder": "2025-2026"
+    "session_id": "2026S1",
+    "name": "May 2026 Special Session",
+    "date_folder": "2026-2026"
   },
   "SB43": {
     "session_id": "2025",
@@ -8118,5 +8118,10 @@
     "session_id": "2025",
     "name": "2025-2026 Regular Session",
     "date_folder": "2025-2026"
+  },
+  "SB1": {
+    "session_id": "2026S1",
+    "name": "May 2026 Special Session",
+    "date_folder": "2026-2026"
   }
 }
