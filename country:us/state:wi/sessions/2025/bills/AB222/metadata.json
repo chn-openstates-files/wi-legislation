@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab222"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Steffen, Armstrong, Anderson, Green, B. Jacobson, Kreibich, Miresse, Mursau, Nedweski, O'Connor, Roe and Udell; \ncosponsored by Senators Quinn, Testin, Pfaff, Spreitzer and Tomczyk",
@@ -142,6 +146,108 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative Tucker added as a coauthor",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 2-12-2026 by Committee on Rules",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Senator Keyeski added as a cosponsor",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative McCarville added as a coauthor",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Krug added as a coauthor",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Arney added as a coauthor",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Brown added as a coauthor",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Emerson added as a coauthor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -348,7 +454,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Rules"
+    "status": "Status: A - Calendar"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -357,6 +463,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

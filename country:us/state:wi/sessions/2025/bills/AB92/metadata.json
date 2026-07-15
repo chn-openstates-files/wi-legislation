@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab92"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Tittl, Wittke, Tusler, Anderson, Arney, Brill, Clancy, Dittrich, Duchow, Madison, Mursau, Neubauer, O'Connor, Phelps, Sinicki, Spiros, Subeck, Summerfield and Udell; \ncosponsored by Senators Wanggaard, Carpenter, Habush Sinykin, James, Ratcliff, Spreitzer, Tomczyk and Larson",
@@ -251,6 +255,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Senator Pfaff added as a cosponsor",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Cruz added as a coauthor",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -460,6 +496,17 @@
       "classification": ""
     },
     {
+      "note": "AB92 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989223",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -510,6 +557,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr12"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Spreitzer, Drake, Hesselbein, Larson, Pfaff, Ratcliff and Roys; \ncosponsored by Representatives Roe, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, J. Jacobson, Joers, Kirsch, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Phelps, Sinicki, Subeck, Udell and Tenorio",
@@ -98,6 +102,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
       }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -178,6 +194,17 @@
   ],
   "documents": [
     {
+      "note": "SJR12 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989212",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -217,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

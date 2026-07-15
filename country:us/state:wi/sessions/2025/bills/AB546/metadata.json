@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab546"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Goeben, Gustafson, Brill, Maxey, Penterman, Murphy, Allen, Gundrum, Piwowarczyk, B. Jacobson, Tusler, Tittl, O'Connor, Kreibich, Dittrich, Behnke, Knodl, Armstrong, Green, Mursau and Hurd; \ncosponsored by Senators Quinn, Jacque, Jagler, Tomczyk, Wanggaard, Marklein, Bradley and Nass",
@@ -44,6 +48,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Public hearing held",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Report passage recommended by Committee on Health, Aging and Long-Term Care, Ayes 10, Noes 4",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -237,6 +297,39 @@
   ],
   "documents": [
     {
+      "note": "AB546 ROCP for Committee on Health, Aging and Long-Term Care On 1/14/2026",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/health_aging_and_long_term_care/1958980",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB546 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989263",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC Bill Hearing Materials",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcbillhearingtestimonyandmaterials/2025/REG/AB546",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -267,7 +360,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Health, Aging and Long-Term Care"
+    "status": "Status: A - Rules"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -276,6 +369,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

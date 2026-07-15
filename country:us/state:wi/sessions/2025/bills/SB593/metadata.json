@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb593"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senator Quinn; \ncosponsored by Representatives Callahan and Dittrich, by request of Office of the Commissioner of Insurance",
@@ -166,6 +170,188 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Representative Udell added as a cosponsor",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Representative Ortiz-Velez added as a cosponsor",
+      "date": "2025-12-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Read first time and referred to committee on Rules",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 1-22-2026 by Committee on Rules",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Rules suspended to withdraw from calendar and take up",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Read a second time",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Read a third time and concurred in",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Received from Assembly concurred in",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "LRB correction",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Report correctly enrolled",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor on 3-26-2026",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 3-27-2026. 2025 Wisconsin Act 122",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Published 3-28-2026",
+      "date": "2026-03-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,6 +383,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "2025 Wisconsin Act 122",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/122",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 122: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%20122.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB593 ROCP for Committee on Insurance, Housing, Rural Issues and Forestry On 11/11/2025",
       "links": [
@@ -250,7 +458,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Received"
+    "status": "Status: S - Enacted into law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -259,6 +467,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

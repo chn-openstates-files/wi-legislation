@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr95"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Dittrich, Summerfield, Kaufert, Andraca, Armstrong, Bare, Behnke, DeSmidt, Gundrum, Johnson, Knodl, Kreibich, McCarville, Melotik, Murphy, Mursau, Novak, Ortiz-Velez, Prado, Rodriguez, Sinicki, Snyder, Steffen, Stroud, Subeck, Tittl, Tucker, Wittke, Miresse and Madison; \ncosponsored by Senators James, Carpenter, Jacque, Ratcliff, Roys, Spreitzer, Wall, Wanggaard and Dassler-Alfheim",
@@ -201,6 +205,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -520,6 +534,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

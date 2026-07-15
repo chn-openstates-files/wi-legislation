@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab393"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Sortwell, Penterman, Dittrich, Goeben, Goodwin, Knodl, Kreibich, Melotik, Mursau and O'Connor; \ncosponsored by Senator James",
@@ -54,6 +58,216 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment 2 offered by Representative Sortwell",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment 3 offered by Representative Sortwell",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Report Assembly Amendment 2 adoption recommended by Committee on Transportation, Ayes 5, Noes 0",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Report passage as amended recommended by Committee on Transportation, Ayes 5, Noes 0",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 1-20-2026 by Committee on Rules",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Read a second time",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment 2 adopted",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment 3 adopted",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Read a third time and passed",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Received from Assembly",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Read first time and referred to committee on Senate Organization",
+      "date": "2026-01-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Available for scheduling",
+      "date": "2026-01-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -155,6 +369,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Assembly Amendment 2",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB393-AA2",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB393-AA2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Assembly Amendment 3",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB393-AA3",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB393-AA3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -170,10 +414,32 @@
       "classification": ""
     },
     {
-      "note": "AB393 ROCP for Committee on Transportation",
+      "note": "LC Amendment Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcamendmentmemos/2025/REG/AB393.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB393 ROCP for Committee on Transportation On 1/14/2026",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/transportation/1951392",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB393 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985104",
           "media_type": "text/html"
         }
       ],
@@ -222,7 +488,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Transportation"
+    "status": "Status: S - Available for Scheduling"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -231,6 +497,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

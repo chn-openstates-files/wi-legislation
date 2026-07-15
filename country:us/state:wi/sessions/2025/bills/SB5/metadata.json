@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb5"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Wanggaard, Nass and Wimberger; \ncosponsored by Representatives Sortwell, Behnke, Dittrich, Donovan, Franklin, Maxey, Murphy, Mursau, Nedweski, Novak, O'Connor, Piwowarczyk, Wichgers, Zimmerman and Subeck",
@@ -317,6 +321,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
       }
+    },
+    {
+      "description": "Representative Doyle added as a cosponsor",
+      "date": "2026-01-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -448,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

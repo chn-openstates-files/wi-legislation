@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb262"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Cabral-Guevara and Nass; \ncosponsored by Representatives Gundrum, Dittrich, Franklin, Mursau, O'Connor, Subeck and Wichgers",
@@ -105,6 +109,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
       }
+    },
+    {
+      "description": "Senate Amendment 1 offered by Senator Cabral-Guevara",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,6 +172,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Amendment Histories",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB262",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB262 ROCP for Committee on Health",
       "links": [
@@ -206,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

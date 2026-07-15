@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab78"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Donovan, Rodriguez, Allen, Dittrich, Duchow, Goodwin, Gundrum, Knodl, Maxey, Melotik, Murphy, Mursau, Novak, O'Connor, Ortiz-Velez, Penterman, Piwowarczyk, Steffen, Tittl, Tusler and Wichgers; \ncosponsored by Senators Wanggaard and Tomczyk",
@@ -404,6 +408,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
       }
+    },
+    {
+      "description": "Representative Doyle added as a coauthor",
+      "date": "2026-01-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Brown added as a coauthor",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Billings added as a coauthor",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Emerson added as a coauthor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -753,6 +797,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab490"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Doyle, Andraca, Emerson, McCarville, DeSmidt, Miresse, Bare, Fitzgerald, Sinicki, Subeck, Snodgrass, Neubauer, Ortiz-Velez, Clancy, Madison, Moore Omokunde, Sheehan, Joers, Phelps, Kaufert, Palmeri, Hysell, Rivera-Wagner, Arney, Mayadev, Hong, Goodwin, Udell, Stroud, Prado and Johnson; \ncosponsored by Senators Pfaff, Habush Sinykin, Carpenter, Ratcliff, Roys, Wirch, Hesselbein, Larson, Dassler-Alfheim, Smith, Spreitzer and Keyeski",
@@ -34,6 +38,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Vining added as a coauthor",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -307,6 +343,17 @@
   ],
   "documents": [
     {
+      "note": "AB490 ROCP for Committee on Mental Health and Substance Abuse Prevention",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/mental_health_and_substance_abuse_prevention/1986830",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -346,6 +393,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

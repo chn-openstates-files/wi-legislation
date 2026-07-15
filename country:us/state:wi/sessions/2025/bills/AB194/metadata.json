@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab194"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Armstrong, Brooks, Anderson, Brown, DeSmidt, Donovan, Doyle, Emerson, Franklin, Goodwin, Green, Hysell, B. Jacobson, Joers, Kitchens, Kreibich, Krug, Melotik, Murphy, Mursau, Neubauer, Novak, O'Connor, Ortiz-Velez, Palmeri, Penterman, Piwowarczyk, Roe, Spiros, Udell and Goeben; \ncosponsored by Senators Quinn, Feyen, Jagler, Dassler-Alfheim, Habush Sinykin, James, Pfaff, Ratcliff, Spreitzer, Wall, Wirch and Smith",
@@ -328,6 +332,163 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Representative Billings added as a coauthor",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Public hearing requirement waived by committee on Senate Organization, pursuant to Senate Rule 18 (1m), Ayes 3, Noes 2",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 3-17-2026 pursuant to Senate Rule 18(1)",
+      "date": "2026-03-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Read a second time",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Rules suspended to give bill its third reading",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Read a third time and concurred in",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-03-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Received from Senate concurred in",
+      "date": "2026-03-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "LRB correction",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Report correctly enrolled on 3-26-2026",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor on 4-2-2026",
+      "date": "2026-04-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 4-8-2026. 2025 Wisconsin Act 237",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Published 4-9-2026",
+      "date": "2026-04-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -641,6 +802,28 @@
       "classification": ""
     },
     {
+      "note": "2025 Wisconsin Act 237",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/237",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 237: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%20237.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Amendment Memo",
       "links": [
         {
@@ -715,7 +898,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Available for Scheduling"
+    "status": "Status: A - Enacted into Law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -724,6 +907,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab165"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Piwowarczyk, Maxey, Allen, Behnke, Brooks, Dittrich, Duchow, Green, B. Jacobson, Kreibich, Murphy, O'Connor, Penterman and Wichgers; \ncosponsored by Senators Nass and Wanggaard",
@@ -313,6 +317,52 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Report vetoed by the Governor on 12-5-2025",
+      "date": "2025-12-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -435,11 +485,11 @@
       "note": "Text as Enrolled",
       "links": [
         {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB165",
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/AB165",
           "media_type": "text/html"
         },
         {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB165.pdf",
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/AB165.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -463,6 +513,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Veto Message",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetomessages/2025/AB165.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "AB165 ROCP for Committee on Public Benefit Reform On 4/15/2025",
       "links": [
@@ -527,7 +588,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Enrolled"
+    "status": "Status: A - Veto Sustained"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -536,6 +597,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

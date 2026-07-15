@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab170"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives O'Connor, Tusler, Murphy, B. Jacobson, Donovan, Franklin, Moses, Maxey, Kreibich, Dittrich, Allen, Behnke, Knodl, Penterman, Melotik and Mursau; \ncosponsored by Senators Wimberger, Feyen, Nass and Tomczyk",
@@ -34,6 +38,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -187,6 +203,17 @@
   ],
   "documents": [
     {
+      "note": "AB170 ROCP for Committee on Judiciary",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/judiciary/1987353",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -226,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

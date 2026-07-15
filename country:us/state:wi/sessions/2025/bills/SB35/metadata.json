@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb35"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Jacque, Bradley and Cabral-Guevara; \ncosponsored by Representatives Wichgers, Behnke, Goodwin, Green, Kreibich, Melotik, Miresse, Murphy and Subeck",
@@ -129,6 +133,58 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Representative Brown added as a cosponsor",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Billings added as a cosponsor",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Anderson added as a cosponsor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Emerson added as a cosponsor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -188,6 +244,17 @@
       "classification": ""
     },
     {
+      "note": "SB35 ROCP for Committee on Judiciary and Public Safety",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/judiciary_and_public_safety/1986201",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -238,6 +305,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

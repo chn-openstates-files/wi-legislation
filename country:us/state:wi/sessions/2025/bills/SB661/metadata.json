@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb661"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Larson, Carpenter and Keyeski; \ncosponsored by Representatives Goodwin, Madison, Arney, Brown, Clancy, Doyle, Fitzgerald, Miresse, Neubauer, Ortiz-Velez, Rivera-Wagner, Roe, Stubbs, Taylor, Vining and Andraca",
@@ -54,6 +58,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -103,6 +131,28 @@
   ],
   "documents": [
     {
+      "note": "SB661: Fiscal Estimate From DOT",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb661/sb661_dot.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB661 ROCP for Committee on Transportation and Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/transportation_and_local_government/1984883",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -142,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

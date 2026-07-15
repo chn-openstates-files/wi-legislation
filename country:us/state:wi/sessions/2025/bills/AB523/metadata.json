@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab523"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Melotik, Behnke, Dittrich, Kreibich, Maxey, Miresse, Piwowarczyk, Sinicki and Subeck; \ncosponsored by Senators Wanggaard, Nass and Marklein",
@@ -54,6 +58,104 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Public hearing held",
+      "date": "2025-12-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2025-12-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Report passage recommended by Committee on Consumer Protection, Ayes 5, Noes 0",
+      "date": "2025-12-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2025-12-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Penterman added as a coauthor",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 1-15-2026 by Committee on Rules",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -151,6 +253,28 @@
   ],
   "documents": [
     {
+      "note": "AB523 ROCP for Committee on Consumer Protection On 12/23/2025",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/consumer_protection/1960383",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC Bill Hearing Materials",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcbillhearingtestimonyandmaterials/2025/REG/AB523",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -181,7 +305,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Consumer Protection"
+    "status": "Status: A - Tabled"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -190,6 +314,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

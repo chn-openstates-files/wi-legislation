@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab17"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Sortwell, Franklin, Kaufert, Madison, Anderson, Clancy, Cruz, DeSmidt, Goeben, Goodwin, Gundrum, Hong, Hysell, Kreibich, Maxey, Miresse, Novak, Piwowarczyk, Prado, Tusler, Udell, Wichgers and Stroud; \ncosponsored by Senators James, Larson and Tomczyk",
@@ -320,6 +324,28 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
       }
+    },
+    {
+      "description": "Public hearing held",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -580,17 +606,6 @@
       "classification": ""
     },
     {
-      "note": "AB17: Fiscal Estimate From DOR",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab17/ab17_dor.pdf",
-          "media_type": ""
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "AB17: Fiscal Estimate From DOR (Updated)",
       "links": [
         {
@@ -602,10 +617,32 @@
       "classification": ""
     },
     {
+      "note": "AB17: Fiscal Estimate From DOR",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab17/ab17_dor.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "AB17 ROCP for Committee on Ways and Means On 5/29/2025",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/ways_and_means/1914081",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB17 ROCP for Committee on Agriculture and Revenue",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/agriculture_and_revenue/1988552",
           "media_type": "text/html"
         }
       ],
@@ -663,6 +700,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

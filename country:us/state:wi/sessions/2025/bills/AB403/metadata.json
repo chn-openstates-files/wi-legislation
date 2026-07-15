@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab403"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Vining, Johnson, Stubbs, Anderson, Andraca, Bare, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Joers, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Prado, Roe, Sinicki, Snodgrass, Taylor and Tenorio; \ncosponsored by Senators Drake, Smith, Carpenter, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Ratcliff, Spreitzer, Wirch and Dassler-Alfheim",
@@ -66,6 +70,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -326,6 +364,28 @@
       "classification": ""
     },
     {
+      "note": "AB403: Fiscal Estimate From DSPS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab403/ab403_dsps.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB403 ROCP for Committee on State Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/state_affairs/1989778",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -365,6 +425,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

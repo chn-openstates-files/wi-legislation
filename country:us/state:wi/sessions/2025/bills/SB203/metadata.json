@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb203"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Felzkowski, Marklein, Cabral-Guevara, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Keyeski, Larson, Nass, Pfaff, Quinn, Ratcliff, Roys, Spreitzer, Wanggaard, Wimberger and James; \ncosponsored by Representatives Novak, Tranel, Allen, Armstrong, Brooks, Callahan, Fitzgerald, B. Jacobson, Joers, Kirsch, Kitchens, Knodl, Kreibich, McCarville, Miresse, Mursau, O'Connor, Rodriguez, Sortwell, Tittl, Wichgers and Tucker",
@@ -212,6 +216,48 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representatives Stubbs and Hysell added as cosponsors",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Franklin added as a cosponsor",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Bare added as a cosponsor",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -451,6 +497,17 @@
       "classification": ""
     },
     {
+      "note": "SB203 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985247",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -501,6 +558,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

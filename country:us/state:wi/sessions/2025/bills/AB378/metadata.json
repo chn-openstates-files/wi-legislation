@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab378"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Bare, Cruz, Hong, Hysell, Mayadev, Anderson, Andraca, Arney, Billings, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, J. Jacobson, Joers, Johnson, Kirsch, Madison, McCarville, McGuire, Miresse, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Moore Omokunde, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Udell and Vining; \ncosponsored by Senators Hesselbein, Larson, Carpenter, Keyeski, Ratcliff and Drake",
@@ -418,6 +422,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -900,6 +928,17 @@
       "classification": ""
     },
     {
+      "note": "AB378: Fiscal Estimate From DSPS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab378/ab378_dsps.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "AB378: Fiscal Estimate From DVA",
       "links": [
         {
@@ -1131,6 +1170,17 @@
       "classification": ""
     },
     {
+      "note": "AB378 ROCP for Committee on State and Federal Relations",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/state_and_federal_relations/1984464",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -1170,6 +1220,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

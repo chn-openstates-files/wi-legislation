@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab368"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Wittke, Allen, Behnke, Brooks, Duchow, Franklin, Kreibich, Krug, Mursau, Tittl, Wichgers, Hysell, Joers, Madison, Miresse, Subeck and Udell; \ncosponsored by Senators Tomczyk, Feyen, James, Nass, Testin, Dassler-Alfheim, Keyeski and Ratcliff",
@@ -176,6 +180,102 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Representative Melotik added as a coauthor",
+      "date": "2025-12-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Moses added as a coauthor",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Report passage recommended by Committee on Health, Aging and Long-Term Care, Ayes 11, Noes 0",
+      "date": "2025-12-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2025-12-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Andraca added as a coauthor",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Sinicki added as a coauthor",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Tranel added as a coauthor",
+      "date": "2026-01-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -348,10 +448,21 @@
       "classification": ""
     },
     {
-      "note": "AB368 ROCP for Committee on Health, Aging and Long-Term Care",
+      "note": "AB368 ROCP for Committee on Health, Aging and Long-Term Care On 12/17/2025",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/health_aging_and_long_term_care/1948671",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB368 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989249",
           "media_type": "text/html"
         }
       ],
@@ -400,7 +511,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Health, Aging and Long-Term Care"
+    "status": "Status: A - Rules"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -409,6 +520,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

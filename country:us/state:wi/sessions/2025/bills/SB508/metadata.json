@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb508"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senator Hutton; \ncosponsored by Representatives Kaufert, Maxey, Penterman, Gundrum, Sinicki, Palmeri, Goeben, Goodwin, Knodl, Dittrich, Murphy, Kreibich, Melotik and Behnke",
@@ -45,6 +49,50 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Representative Ortiz-Velez added as a cosponsor",
+      "date": "2026-02-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Miresse added as a cosponsor",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Senate Substitute Amendment 1 offered by Senator Hutton",
+      "date": "2026-03-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,6 +124,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "Amendment Histories",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB508",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB508 ROCP for Committee on Transportation and Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/transportation_and_local_government/1984892",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "LC Bill Hearing Materials",
       "links": [
@@ -127,6 +197,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

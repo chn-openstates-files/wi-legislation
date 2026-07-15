@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab448"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Moses, Kurtz, O'Connor, Maxey, Penterman, Gundrum, Duchow, Franklin, Piwowarczyk, Sortwell, Murphy, B. Jacobson, Goeben, Wichgers, Knodl, Green, Kreibich, Mursau and Behnke; \ncosponsored by Senators Feyen and Tomczyk",
@@ -44,6 +48,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment 1 offered by Representative Summerfield",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Tucker added as a coauthor",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -221,6 +259,28 @@
   ],
   "documents": [
     {
+      "note": "Amendment Histories",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB448",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB448 ROCP for Committee on Insurance",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/insurance/1984719",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -260,6 +320,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

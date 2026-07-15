@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb309"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators James, Keyeski, Marklein, Quinn and Wanggaard; \ncosponsored by Representatives VanderMeer, Dittrich, Behnke, Brill, Kaufert, Knodl, Maxey, Melotik, Murphy, Mursau, O'Connor, Ortiz-Velez, Penterman and Tittl",
@@ -111,7 +115,7 @@
     {
       "description": "Read a second time",
       "date": "2025-10-14T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
@@ -123,7 +127,7 @@
     {
       "description": "Ordered to a third reading",
       "date": "2025-10-14T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-3"
       ],
@@ -158,7 +162,7 @@
     {
       "description": "Ordered immediately messaged",
       "date": "2025-10-14T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -363,6 +367,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
       }
+    },
+    {
+      "description": "Representative Brown added as a cosponsor",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Emerson added as a cosponsor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -521,6 +545,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

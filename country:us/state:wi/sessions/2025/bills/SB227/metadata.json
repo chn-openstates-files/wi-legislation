@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb227"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators James, Wanggaard, Jacque, Cabral-Guevara and Marklein; \ncosponsored by Representatives Goeben, Duchow, O'Connor, Armstrong, B. Jacobson, Dittrich, Brill, Brooks, Callahan, Kaufert, Piwowarczyk, Behnke and Penterman",
@@ -166,6 +170,31 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Read first time and referred to committee on Rules",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -230,6 +259,17 @@
   ],
   "documents": [
     {
+      "note": "SB227 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989209",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB227 ROCP for Committee on Judiciary and Public Safety On 11/11/2025",
       "links": [
         {
@@ -282,7 +322,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Received"
+    "status": "Status: A - Rules"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -291,6 +331,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

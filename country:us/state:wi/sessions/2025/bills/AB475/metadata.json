@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab475"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Clancy, Rivera-Wagner, Prado, Anderson, Arney, Bare, Brown, DeSanto, DeSmidt, Hong, Joers, Johnson, Kirsch, Madison, Mayadev, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Roe, Sheehan, Sinicki, Stroud, Subeck, Taylor, Tenorio and Udell; \ncosponsored by Senators Carpenter, Drake, Habush Sinykin, Keyeski, Ratcliff and Spreitzer",
@@ -34,6 +38,88 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Representative Haywood added as a coauthor",
+      "date": "2026-01-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Representative Vining added as a coauthor",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Representative Andraca added as a coauthor",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Senator Wirch added as a cosponsor",
+      "date": "2026-01-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Representative Snodgrass added as a coauthor",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Senator Larson added as a cosponsor",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Representative McCarville added as a coauthor",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
       }
     }
   ],
@@ -275,6 +361,17 @@
   ],
   "documents": [
     {
+      "note": "AB475 ROCP for Committee on Judiciary",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/judiciary/1987361",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -314,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:33Z"
   }
 }

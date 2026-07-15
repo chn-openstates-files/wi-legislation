@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab116"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Joint Legislative Council",
@@ -45,6 +49,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,6 +92,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "AB116 ROCP for Committee on Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/local_government/1986141",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "LC Bill Hearing Materials",
       "links": [
@@ -127,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

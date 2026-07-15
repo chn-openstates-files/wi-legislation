@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab6"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Franklin, Vos, Steffen, Behnke, Wichgers and Allen; \ncosponsored by Senator Tomczyk",
@@ -254,6 +258,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
       }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -385,6 +401,17 @@
       "classification": ""
     },
     {
+      "note": "AB6 ROCP for Committee on Education",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/education/1991862",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -435,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

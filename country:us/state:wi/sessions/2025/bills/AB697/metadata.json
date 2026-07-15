@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab697"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives J. Jacobson, DeSmidt, Brown, Stubbs and Stroud; \ncosponsored by Senators Hesselbein, Dassler-Alfheim, Ratcliff, Cabral-Guevara, Roys, Spreitzer and Keyeski",
@@ -34,6 +38,48 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Representative Sinicki added as a coauthor",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Palmeri added as a coauthor",
+      "date": "2025-12-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Goodwin added as a coauthor",
+      "date": "2025-12-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -99,10 +145,32 @@
   ],
   "documents": [
     {
+      "note": "AB697 ROCP for Committee on State Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/state_affairs/1989766",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
           "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB697",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 686",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb686",
           "media_type": "text/html"
         }
       ],
@@ -127,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

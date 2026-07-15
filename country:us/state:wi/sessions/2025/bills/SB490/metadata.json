@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb490"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Carpenter, Wirch, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer and Wall; \ncosponsored by Representatives Sheehan, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining",
@@ -94,6 +98,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -239,6 +267,17 @@
   ],
   "documents": [
     {
+      "note": "SB490: Fiscal Estimate From DOR",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb490/sb490_dor.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB490: Fiscal Estimate From DOT",
       "links": [
         {
@@ -294,6 +333,17 @@
       "classification": ""
     },
     {
+      "note": "SB490 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987510",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -333,6 +383,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

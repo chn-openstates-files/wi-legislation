@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb272"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Spreitzer, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Keyeski, Larson, Ratcliff, Roys and Wirch; \ncosponsored by Representatives Roe, Anderson, Arney, Bare, Billings, Brown, Cruz, DeSanto, DeSmidt, Dittrich, Emerson, Joers, Madison, Miresse, Ortiz-Velez, Palmeri, Rivera-Wagner, Snodgrass, Stubbs, Subeck, Tenorio and Udell",
@@ -56,6 +60,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -172,6 +188,17 @@
       "classification": ""
     },
     {
+      "note": "SB272 ROCP for Committee on Health",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/health/1995081",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -211,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

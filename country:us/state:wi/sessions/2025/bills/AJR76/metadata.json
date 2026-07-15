@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr76"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Rivera-Wagner, Udell, Cruz, Neubauer, Phelps, Snodgrass, Spaude, Stroud, Arney, Clancy, Anderson, Andraca, Bare, DeSanto, Emerson, Fitzgerald, Hong, Joers, Johnson, Madison, Mayadev, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Prado, Roe, Stubbs, Subeck, Vining and Haywood; \ncosponsored by Senators Carpenter, Dassler-Alfheim, Roys, Spreitzer, Ratcliff, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Smith, Wall and Wirch",
@@ -34,6 +38,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -307,6 +333,17 @@
   ],
   "documents": [
     {
+      "note": "AJR76 ROCP for Committee on State Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/state_affairs/1989747",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -346,6 +383,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

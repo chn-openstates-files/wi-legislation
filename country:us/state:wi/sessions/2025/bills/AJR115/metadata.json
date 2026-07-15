@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr115"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Stroud, Snodgrass, Udell, Cruz, Rivera-Wagner, Spaude, Clancy, Arney, Anderson, Bare, Joers, Madison, Moore Omokunde, Vining, Johnson and Palmeri; \ncosponsored by Senators Spreitzer, Carpenter, Dassler-Alfheim, Roys, Ratcliff, Habush Sinykin and Larson",
@@ -41,6 +45,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
       }
     }
   ],
@@ -194,6 +220,17 @@
   ],
   "documents": [
     {
+      "note": "AJR115 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989174",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -233,6 +270,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb37"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senator Jacque; \ncosponsored by Representatives Sortwell, Armstrong, Behnke, Dittrich, Goeben, Kreibich, Miresse, Wichgers and Stroud",
@@ -111,6 +115,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -142,6 +158,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "SB37 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985287",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB37 ROCP for Committee on Transportation and Local Government On 6/5/2025",
       "links": [
@@ -204,6 +231,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

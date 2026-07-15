@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb499"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Kapenga, Wanggaard, Jacque and Nass; \ncosponsored by Representatives Brill, Piwowarczyk, Wichgers, Donovan, Behnke, Dittrich, Gundrum, Maxey, O'Connor and Murphy",
@@ -46,6 +50,54 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -114,11 +166,44 @@
       "classification": ""
     },
     {
+      "note": "SB499: Fiscal Estimate From DATCP",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb499/sb499_datcp.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB499: Fiscal Estimate From DOC",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb499/sb499_doc.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB499: Fiscal Estimate From DSPS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb499/sb499_dsps.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB499 ROCP for Committee on Agriculture and Revenue",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/agriculture_and_revenue/1988546",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -164,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

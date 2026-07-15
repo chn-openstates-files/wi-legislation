@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb385"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Smith, Wall, Hesselbein, Dassler-Alfheim, Ratcliff, Carpenter, Roys, Larson, Spreitzer, James, Keyeski, Habush Sinykin, Drake, Wirch, L. Johnson and Pfaff; \ncosponsored by Representatives Emerson, Spaude, Phelps, Sinicki, Brown, Rivera-Wagner, McCarville, Tenorio, Doyle, Cruz, Neubauer, DeSmidt, Sheehan, Roe, Taylor, Goodwin, Andraca, Moore Omokunde, Hysell, Franklin, Fitzgerald, Anderson, Moses and Stroud",
@@ -86,6 +90,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Representative Mayadev added as a cosponsor",
+      "date": "2025-12-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -261,6 +297,17 @@
       "classification": ""
     },
     {
+      "note": "SB385 ROCP for Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/licensing_regulatory_reform_state_and_federal_affairs/1986620",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -291,7 +338,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Licensing, Regulatory Reform and State and Federal Affairs"
+    "status": "Status: S - Licensing, Regulatory Reform, State and Federal Affairs"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -300,6 +347,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

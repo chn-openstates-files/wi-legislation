@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb129"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Jacque, Cabral-Guevara and Pfaff; \ncosponsored by Representatives Penterman, Behnke, Brill, Brooks, Dittrich, Goeben, Goodwin, Gundrum, Knodl, Maxey, Melotik, Miresse, Murphy, Mursau, Piwowarczyk, Sortwell, Stroud and Wichgers",
@@ -56,6 +60,58 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative Sinicki added as a cosponsor",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Senator Roys added as a coauthor",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Senator Keyeski added as a coauthor",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative Tenorio added as a cosponsor",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -116,6 +172,17 @@
       "classification": ""
     },
     {
+      "note": "SB129 ROCP for Committee on Transportation and Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/transportation_and_local_government/1984903",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -155,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

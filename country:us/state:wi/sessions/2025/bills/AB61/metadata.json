@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab61"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Nedweski, Dittrich, Piwowarczyk, Andraca, Armstrong, Behnke, Brill, Callahan, Donovan, Goeben, Gundrum, B. Jacobson, Kaufert, Kitchens, Kreibich, Maxey, Miresse, O'Connor, Penterman, Sinicki, Steffen, Tittl and Wichgers; \ncosponsored by Senators Wanggaard, Carpenter, L. Johnson, Marklein and Nass",
@@ -379,6 +383,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
       }
+    },
+    {
+      "description": "Representative Doyle added as a coauthor",
+      "date": "2026-01-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Brown added as a coauthor",
+      "date": "2026-03-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Billings added as a coauthor",
+      "date": "2026-03-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Emerson added as a coauthor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -681,6 +725,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

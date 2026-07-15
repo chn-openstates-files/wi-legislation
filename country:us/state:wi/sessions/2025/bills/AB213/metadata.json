@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab213"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Haywood, DeSanto, DeSmidt, Palmeri, Neubauer, Snodgrass, Brown, Joers, Sheehan, Stroud, Hong, Tenorio, Stubbs, Goodwin, Rivera-Wagner, Clancy, Fitzgerald, Bare, Anderson, Moore Omokunde, Behnke, Madison, Sinicki, Mayadev, Emerson, Johnson and Miresse; \ncosponsored by Senators Keyeski, Pfaff, Larson, Carpenter, Ratcliff, Spreitzer, Dassler-Alfheim, Habush Sinykin, Drake, Hesselbein, Smith, Wirch and L. Johnson",
@@ -66,6 +70,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Senator Wall added as a cosponsor",
+      "date": "2026-03-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
       }
     }
   ],
@@ -318,6 +344,17 @@
       "classification": ""
     },
     {
+      "note": "AB213 ROCP for Committee on Housing and Real Estate",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/housing_and_real_estate/1990830",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -357,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

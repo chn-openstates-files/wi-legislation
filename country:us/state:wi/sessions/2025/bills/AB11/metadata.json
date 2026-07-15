@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab11"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Goeben, Subeck, Allen, Anderson, Behnke, Brill, Brooks, Dittrich, Kirsch, Knodl, Maxey, Murphy, Mursau, Neylon, Rodriguez, Tusler, Wichgers and Tenorio; \ncosponsored by Senators Jacque, Carpenter, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Ratcliff, Spreitzer and Larson",
@@ -242,6 +246,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -494,6 +510,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

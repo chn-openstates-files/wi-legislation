@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr44"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Goodwin, Sinicki, Arney, Spiros, Doyle, Neubauer, Tenorio, Rivera-Wagner, Mursau, Madison, Brown, DeSmidt, Stubbs, Vining, Emerson, Kirsch, Fitzgerald, Phelps, Bare, Ortiz-Velez, Moore Omokunde, Kaufert, Clancy, Palmeri, J. Jacobson, Joers, Snodgrass, Haywood, Taylor, Prado, Johnson and Subeck; \ncosponsored by Senators Drake, Carpenter, Larson, Wall, Roys, Dassler-Alfheim, Hesselbein, Smith, Ratcliff, Wirch, Spreitzer, Wanggaard and L. Johnson",
@@ -31,6 +35,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -312,6 +328,17 @@
   ],
   "documents": [
     {
+      "note": "AJR44 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989130",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -351,6 +378,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

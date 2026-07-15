@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab181"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Green, Armstrong, Behnke, Callahan, Hysell, B. Jacobson, Krug, Miresse, Mursau, Palmeri, Piwowarczyk, Stroud, Summerfield, Swearingen, Tittl, Tucker, VanderMeer and Wichgers; \ncosponsored by Senators Quinn, Stafsholt, James, Marklein and Tomczyk",
@@ -140,6 +144,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -370,6 +386,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

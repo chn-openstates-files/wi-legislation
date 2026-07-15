@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb219"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Stafsholt, Quinn, Bradley, Wanggaard, Nass and Pfaff; \ncosponsored by Representatives Moses, Callahan, Gundrum, O'Connor, Allen, Tucker, Maxey, Armstrong, B. Jacobson, Kreibich, Franklin, Mursau, Murphy, Dittrich, Palmeri, Sortwell, Steffen, Melotik and Brill",
@@ -66,6 +70,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Senator Keyeski added as a coauthor",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -161,6 +187,17 @@
       "classification": ""
     },
     {
+      "note": "SB219 ROCP for Committee on Agriculture and Revenue",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/agriculture_and_revenue/1988557",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -211,6 +248,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

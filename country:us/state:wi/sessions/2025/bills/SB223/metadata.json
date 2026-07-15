@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb223"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Spreitzer, Ratcliff, Carpenter, Dassler-Alfheim, Roys, Drake, Hesselbein, Keyeski, Larson and Smith; \ncosponsored by Representatives Phelps, Neubauer, Arney, Clancy, Cruz, Rivera-Wagner, Snodgrass, Stroud, Udell, Anderson, Bare, Billings, Brown, DeSmidt, Emerson, Fitzgerald, Hong, Joers, Johnson, Kirsch, Madison, Mayadev, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Sinicki, Subeck, Tenorio and Haywood",
@@ -34,6 +38,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -139,6 +155,17 @@
   ],
   "documents": [
     {
+      "note": "SB223 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987531",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -178,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

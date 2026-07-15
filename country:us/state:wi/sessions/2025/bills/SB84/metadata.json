@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb84"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Wimberger, Marklein and Tomczyk; \ncosponsored by Representatives Franklin, Armstrong, Behnke, Dittrich, Knodl, Kreibich, Maxey, Melotik, Nedweski, Tusler and Sinicki",
@@ -453,6 +457,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Representative Doyle added as a cosponsor",
+      "date": "2026-03-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -606,6 +620,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

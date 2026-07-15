@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab608"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Stroud, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Neubauer, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining; \ncosponsored by Senators Dassler-Alfheim, Carpenter, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch",
@@ -58,6 +62,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -449,6 +465,17 @@
       "classification": ""
     },
     {
+      "note": "AB608 ROCP for Committee on Colleges and Universities",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/colleges_and_universities/1988639",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -488,6 +515,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

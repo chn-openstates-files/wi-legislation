@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr24"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Kitchens, Franklin, Tranel, Billings, Anderson, Armstrong, Behnke, DeSmidt, Dittrich, Emerson, Goodwin, Kaufert, Krug, Miresse, Novak, O'Connor, Ortiz-Velez, Penterman, Sheehan, Stubbs, Swearingen, Wittke and Sinicki; \ncosponsored by Senators Testin, Tomczyk, Roys, Cabral-Guevara, Jacque, Ratcliff, Spreitzer and Wanggaard",
@@ -93,6 +97,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -341,6 +357,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

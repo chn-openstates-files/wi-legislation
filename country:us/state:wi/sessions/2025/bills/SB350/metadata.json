@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb350"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators L. Johnson, Carpenter, Drake, Hesselbein, Larson, Pfaff, Ratcliff, Smith and Spreitzer; \ncosponsored by Representatives Vining, Roe, DeSanto, Kirsch, Moore Omokunde, Palmeri, Anderson, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Joers, Johnson, Madison, Miresse, Neubauer, Phelps, Rivera-Wagner, Sinicki, Stroud, Stubbs, Subeck, Tenorio and Udell",
@@ -34,6 +38,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -131,6 +157,17 @@
   ],
   "documents": [
     {
+      "note": "SB350 ROCP for Committee on Education",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/education/1991851",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -170,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

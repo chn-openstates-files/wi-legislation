@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab435"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Miresse, Stroud, Palmeri, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining; \ncosponsored by Senators Habush Sinykin, Roys, Carpenter, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Smith, Spreitzer, Wall and Wirch",
@@ -34,6 +38,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -419,6 +435,17 @@
   ],
   "documents": [
     {
+      "note": "AB435 ROCP for Committee on Environment",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/environment/1984335",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -458,6 +485,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab287"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Snodgrass, Behnke, DeSanto, Miresse, Anderson, Andraca, Arney, Bare, Billings, Clancy, Cruz, DeSmidt, Fitzgerald, J. Jacobson, Joers, Johnson, Madison, Mayadev, Moore Omokunde, Palmeri, Phelps, Rivera-Wagner, Roe, Sheehan, Sinicki, Stubbs, Subeck, Tenorio and Vining; \ncosponsored by Senators Smith, Habush Sinykin, Carpenter, Dassler-Alfheim, Drake, Keyeski, Larson, Ratcliff, Roys, Wall and Wirch",
@@ -44,6 +48,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
       }
     }
   ],
@@ -301,6 +317,17 @@
   ],
   "documents": [
     {
+      "note": "AB287 ROCP for Committee on Agriculture",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/agriculture/1988170",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -340,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

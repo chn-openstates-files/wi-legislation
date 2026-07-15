@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb460"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Spreitzer, Habush Sinykin, Hesselbein, Larson, Ratcliff, Roys and Smith; \ncosponsored by Representatives Tenorio, Bare, Anderson, Andraca, Arney, Brown, Clancy, DeSmidt, Fitzgerald, Joers, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Palmeri, Phelps, Rivera-Wagner, Snodgrass, Stroud, Subeck and Udell",
@@ -54,6 +58,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -135,6 +173,28 @@
   ],
   "documents": [
     {
+      "note": "SB460: Fiscal Estimate From DWD",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb460/sb460_dwd.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB460 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987505",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -174,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

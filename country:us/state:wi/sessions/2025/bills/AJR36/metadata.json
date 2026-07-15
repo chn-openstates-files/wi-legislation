@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr36"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Madison, Stroud, Miresse, Tenorio, McCarville, Palmeri, J. Jacobson, Joers, Anderson, Andraca, Arney, Bare, Brown, Clancy, Cruz, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, Johnson, Mayadev, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Udell and Vining; \ncosponsored by Senators Spreitzer, Habush Sinykin, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Keyeski, Larson, Ratcliff, Roys, Smith and Carpenter",
@@ -34,6 +38,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "LRB correction",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -371,6 +397,17 @@
   ],
   "documents": [
     {
+      "note": "AJR36 ROCP for Committee on Environment",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/environment/1984353",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -410,6 +447,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

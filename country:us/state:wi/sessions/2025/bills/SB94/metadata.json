@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb94"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Feyen, Cabral-Guevara, Nass, Tomczyk and Wanggaard; \ncosponsored by Representatives Sortwell, Behnke, Brill, Dittrich, Donovan, Goeben, Gundrum, B. Jacobson, Knodl, Maxey, Moses, Murphy, Mursau, O'Connor, Tusler and Wichgers",
@@ -168,6 +172,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +248,17 @@
   ],
   "documents": [
     {
+      "note": "SB94 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989205",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB94 ROCP for Committee on Judiciary and Public Safety On 6/5/2025",
       "links": [
         {
@@ -293,6 +320,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

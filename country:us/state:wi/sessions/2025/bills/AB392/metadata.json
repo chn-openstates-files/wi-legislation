@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab392"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Stubbs, Snyder, Joers, Vining, Neubauer, Moore Omokunde, Novak, Rivera-Wagner, Goodwin, O'Connor, Tenorio, Bare, Miresse, Sinicki, Taylor, Brooks, Udell, Emerson, Roe, Behnke, Clancy, Hong, Stroud, Fitzgerald, Armstrong, Phelps, Mayadev, Madison, Andraca, Kaufert, DeSmidt, Billings, Haywood, Anderson, Tranel, Sheehan, Subeck, Gustafson and Johnson; \ncosponsored by Senators James, L. Johnson, Ratcliff, Roys, Hesselbein, Drake, Wirch, Carpenter, Keyeski, Larson, Smith, Dassler-Alfheim, Habush Sinykin, Pfaff, Wall and Spreitzer",
@@ -44,6 +48,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment 1 offered by Representative Stubbs",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative Snodgrass added as a coauthor",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -381,6 +429,28 @@
   ],
   "documents": [
     {
+      "note": "Amendment Histories",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB392",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB392 ROCP for Committee on Criminal Justice and Public Safety",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/criminal_justice_and_public_safety/1985421",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -420,6 +490,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

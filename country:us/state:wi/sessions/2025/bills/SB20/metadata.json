@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb20"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Jacque and Spreitzer; \ncosponsored by Representatives Tittl, Allen, Anderson, Armstrong, Dittrich, Goodwin, Gundrum, Kreibich, Mursau, Piwowarczyk, Snodgrass, Stubbs, Subeck, Taylor, Vining, Wichgers and Sinicki",
@@ -67,6 +71,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
       }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,6 +134,17 @@
       "classification": ""
     },
     {
+      "note": "SB20 ROCP for Committee on Agriculture and Revenue",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/agriculture_and_revenue/1988565",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -157,6 +184,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

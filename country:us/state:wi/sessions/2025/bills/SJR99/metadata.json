@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr99"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators LeMahieu, James, Carpenter, Dassler-Alfheim, Hesselbein, Jacque, Jagler, Marklein, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Testin, Wall, Wanggaard and Wirch; \ncosponsored by Representatives August, Allen, Anderson, Armstrong, Arney, Bare, Behnke, Born, Callahan, Dallman, DeSmidt, Donovan, Doyle, Franklin, Goodwin, Gundrum, Hurd, B. Jacobson, J. Jacobson, Kaufert, Knodl, Kreibich, Krug, Kurtz, McCarville, Melotik, Miresse, Murphy, Nedweski, Neubauer, Novak, O'Connor, Ortiz-Velez, Penterman, Prado, Pronschinske, Sinicki, Snodgrass, Spiros, Stubbs, Subeck, Tranel, Wichgers, Wittke, Zimmerman, Roe, Goeben, Dittrich, Vining and Green",
@@ -103,6 +107,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
       }
     }
   ],
@@ -264,6 +280,17 @@
   ],
   "documents": [
     {
+      "note": "SJR99 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985210",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -303,6 +330,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

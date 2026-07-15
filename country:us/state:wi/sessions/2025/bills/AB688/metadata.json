@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab688"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Roe, Rivera-Wagner, Anderson, Arney, Bare, Billings, Brown, Clancy, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Joers, Johnson, Madison, Mayadev, McCarville, Moore Omokunde, Neubauer, Palmeri, Sinicki, Sheehan, Spaude, Stubbs, Subeck, Taylor, Udell, Allen, DeSanto, Prado and Tenorio; \ncosponsored by Senators Spreitzer, Smith, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Wall, Wirch and Carpenter",
@@ -34,6 +38,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Representative Hong added as a coauthor",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -315,10 +363,54 @@
   ],
   "documents": [
     {
+      "note": "AB688: Fiscal Estimate From DOR",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab688/ab688_dor.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB688 ROCP for Committee on Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/local_government/1986162",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC Bill Hearing Materials",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcbillhearingtestimonyandmaterials/2025/REG/AB688",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
           "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB688",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 694",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb694",
           "media_type": "text/html"
         }
       ],
@@ -343,6 +435,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

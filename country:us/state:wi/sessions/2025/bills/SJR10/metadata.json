@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr10"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Drake, L. Johnson, Carpenter, Ratcliff, Pfaff, Habush Sinykin, Roys, Wall, Wirch, Dassler-Alfheim, Spreitzer, Hesselbein, Larson, Smith and Keyeski; \ncosponsored by Representatives Taylor, Arney, Haywood, Stubbs, Moore Omokunde, Madison, Goodwin, Rivera-Wagner, Sinicki, Miresse, DeSmidt, Kirsch, Snodgrass, Emerson, Spaude, Gundrum, Cruz, Phelps, Clancy, Joers, Tenorio, Hong, Udell, Brown, Roe, Stroud, Prado, Bare, J. Jacobson, Fitzgerald, Doyle, Ortiz-Velez, Sheehan, Mayadev, Allen, Vining, Andraca, Palmeri, Hysell, Anderson, Johnson, McCarville, Neubauer, Billings, Subeck and McGuire",
@@ -41,6 +45,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -186,6 +202,17 @@
   ],
   "documents": [
     {
+      "note": "SJR10 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985366",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -225,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

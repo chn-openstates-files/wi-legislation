@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab404"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Vining, Sinicki, Tenorio, Brown, McCarville, Roe, DeSanto, Anderson, Andraca, Bare, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Joers, Johnson, Kirsch, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Sheehan, Snodgrass, Spaude, Stubbs, Taylor and Udell; \ncosponsored by Senators Hesselbein, Smith, Carpenter, Drake, Habush Sinykin, L. Johnson, Keyeski, Larson, Ratcliff, Roys, Spreitzer, Wall, Wirch and Dassler-Alfheim",
@@ -76,6 +80,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -360,6 +386,17 @@
       "classification": ""
     },
     {
+      "note": "AB404 ROCP for Committee on Veterans and Military Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/veterans_and_military_affairs/1989546",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -399,6 +436,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

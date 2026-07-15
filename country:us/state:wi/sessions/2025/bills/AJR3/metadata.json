@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr3"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives O'Connor, Kitchens, Billings, Stubbs, Snyder, Sinicki, Novak, Gundrum, Dittrich, Spiros, Goeben, Hurd, Vining, Spaude, Steffen, Rivera-Wagner, Bare, Prado, Mursau, Fitzgerald, Knodl, Murphy, Goodwin, Kirsch, Tenorio, Brill, Callahan, Duchow, Miresse, Behnke, Franklin, Allen, Kreibich, Nedweski, Snodgrass, Arney, Madison, Stroud, Palmeri, Tusler, Anderson, Subeck, Hong, Emerson, Roe, Rodriguez, Joers, B. Jacobson, DeSanto, Wittke, J. Jacobson, Phelps, Haywood, Johnson, Ortiz-Velez, McCarville and Mayadev; \ncosponsored by Senators L. Johnson, James, Jacque, Keyeski, Wirch, Carpenter, Drake, Ratcliff, Hesselbein, Testin, Tomczyk, Habush Sinykin, Wall, Feyen, Wanggaard, Spreitzer, Dassler-Alfheim and Larson",
@@ -31,6 +35,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -512,6 +528,17 @@
   ],
   "documents": [
     {
+      "note": "AJR3 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989119",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -551,6 +578,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

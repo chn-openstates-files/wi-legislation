@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab344"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Mayadev, Hysell, Bare, Arney, Clancy, DeSanto, Haywood, Hong, Joers, Madison, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Udell and Andraca; \ncosponsored by Senators Larson, Keyeski, Ratcliff, Habush Sinykin and Carpenter",
@@ -44,6 +48,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -269,6 +285,17 @@
   ],
   "documents": [
     {
+      "note": "AB344 ROCP for Committee on State Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/state_affairs/1989782",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -308,6 +335,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

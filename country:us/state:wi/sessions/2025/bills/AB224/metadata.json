@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab224"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Andraca, Snodgrass, Joers, DeSmidt, Rivera-Wagner, Brown, Sheehan, Roe, Fitzgerald, Clancy, Prado, Subeck, Sinicki, Madison, Tenorio, Vining, Ortiz-Velez, Mayadev, Johnson, Miresse and Palmeri; \ncosponsored by Senators Habush Sinykin, Wall, Roys, Ratcliff, Dassler-Alfheim, Hesselbein, Keyeski, Drake and Spreitzer",
@@ -54,6 +58,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -247,6 +263,17 @@
   ],
   "documents": [
     {
+      "note": "AB224 ROCP for Committee on Campaigns and Elections",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/campaigns_and_elections/1984515",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -286,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

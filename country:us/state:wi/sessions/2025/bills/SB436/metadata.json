@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb436"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Habush Sinykin, Roys, Carpenter, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Miresse, Stroud, Palmeri, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining",
@@ -34,6 +38,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:33Z"
       }
     }
   ],
@@ -179,6 +195,17 @@
   ],
   "documents": [
     {
+      "note": "SB436 ROCP for Committee on Financial Institutions and Sporting Heritage",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/financial_institutions_and_sporting_heritage/1985685",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -218,6 +245,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:33Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab216"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Green, Allen, Armstrong, Behnke, Brooks, Dittrich, Duchow, Franklin, Goeben, B. Jacobson, Kreibich, Melotik, Miresse, Murphy, Mursau, Novak, O'Connor, Ortiz-Velez, Penterman, Piwowarczyk, VanderMeer and Summerfield; \ncosponsored by Senators Stafsholt, Cabral-Guevara, Feyen, Nass and Wanggaard",
@@ -146,6 +150,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -402,6 +418,17 @@
       "classification": ""
     },
     {
+      "note": "AB216 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989235",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -452,6 +479,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

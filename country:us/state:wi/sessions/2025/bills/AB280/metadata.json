@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab280"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Armstrong, Behnke, Dittrich, Gundrum, Kaufert, Kitchens, Kreibich, Melotik, Moses, O'Connor, Sheehan and VanderMeer; \ncosponsored by Senators Feyen, Marklein, Dassler-Alfheim, Habush Sinykin and Spreitzer",
@@ -461,6 +465,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 12-9-2025. 2025 Wisconsin Act 78",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Published 12-10-2025",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -564,21 +604,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Text as Enrolled",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB280",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB280.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Bill Text",
       "links": [
         {
@@ -616,6 +641,28 @@
         {
           "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB280",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 78",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/78",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 78: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%2078.pdf",
+          "media_type": ""
         }
       ],
       "date": "",
@@ -707,7 +754,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Enrolled"
+    "status": "Status: A - Enacted into Law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -716,6 +763,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

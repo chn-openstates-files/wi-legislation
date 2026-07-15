@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb345"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Larson, Roys, Ratcliff, Spreitzer, Carpenter, Dassler-Alfheim, Hesselbein and Smith; \ncosponsored by Representatives Snodgrass, Anderson, Palmeri, Joers, Mayadev, Stubbs, Bare, Brown, Clancy, DeSmidt, Madison, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Rivera-Wagner, Roe, Sinicki, Subeck and Tenorio",
@@ -54,6 +58,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -143,6 +159,17 @@
   ],
   "documents": [
     {
+      "note": "SB345 ROCP for Committee on Transportation and Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/transportation_and_local_government/1984895",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -182,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

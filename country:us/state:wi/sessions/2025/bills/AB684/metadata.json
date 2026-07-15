@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab684"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Clancy, Taylor, Anderson, Arney, Bare, Billings, Brown, DeSmidt, Emerson, Goodwin, Joers, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sinicki, Stroud, Stubbs, Subeck, Tenorio, Udell and Vining; \ncosponsored by Senators Larson, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Ratcliff, Roys and Spreitzer",
@@ -34,6 +38,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -275,10 +303,43 @@
   ],
   "documents": [
     {
+      "note": "AB684: Fiscal Estimate From DOR",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab684/ab684_dor.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB684 ROCP for Committee on Local Government",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/local_government/1986163",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
           "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB684",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 761",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb761",
           "media_type": "text/html"
         }
       ],
@@ -303,6 +364,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

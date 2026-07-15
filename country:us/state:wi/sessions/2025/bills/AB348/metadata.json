@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab348"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Goeben, B. Jacobson, Spiros, Kreibich, Brooks, O'Connor, Gustafson, Gundrum, Duchow, Dittrich, Knodl, Penterman, Nedweski, Murphy, Hurd, Novak, Green, Behnke, Tucker, Kaufert and Allen; \ncosponsored by Senators James, Tomczyk and Nass",
@@ -34,6 +38,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -227,6 +243,17 @@
   ],
   "documents": [
     {
+      "note": "AB348 ROCP for Committee on Children and Families",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/children_and_families/1985955",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -266,6 +293,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

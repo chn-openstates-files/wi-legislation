@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab306"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives B. Jacobson, Ortiz-Velez, Allen, Behnke, Brill, Donovan, Goodwin, Gundrum, Kaufert, Kitchens, Knodl, Krug, Maxey, Melotik, Murphy, O'Connor, Piwowarczyk, Sortwell and Tusler; \ncosponsored by Senators Tomczyk, Kapenga and Wanggaard",
@@ -122,6 +126,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -382,6 +398,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

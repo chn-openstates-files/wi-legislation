@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab324"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Stubbs, Sinicki, Andraca, Anderson, Rivera-Wagner, Goodwin, Moore Omokunde, Clancy, Palmeri, Joers, Subeck, Bare, Haywood, Taylor, Vining, Fitzgerald, Neubauer, Roe, Hysell, Brown, Snodgrass, Mayadev, Miresse, Udell, Arney, Emerson, DeSanto, Prado, Tenorio, Spaude, DeSmidt, Ortiz-Velez, Phelps, Stroud, Sheehan, Cruz, Madison and Johnson; \ncosponsored by Senators Larson, L. Johnson, Hesselbein, Roys, Spreitzer, Ratcliff, Drake, Carpenter, Smith, Habush Sinykin, Dassler-Alfheim and Keyeski",
@@ -64,6 +68,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -393,6 +419,17 @@
   ],
   "documents": [
     {
+      "note": "AB324 ROCP for Committee on Criminal Justice and Public Safety",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/criminal_justice_and_public_safety/1985428",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -432,6 +469,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

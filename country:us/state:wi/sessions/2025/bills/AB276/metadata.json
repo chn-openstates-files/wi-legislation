@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab276"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Knodl, Nedweski, Armstrong, Penterman, O'Connor, Tusler, Mursau, Maxey, Green, Murphy, Dittrich, Tranel, Gustafson, Moses, Piwowarczyk, Neylon, Gundrum, Dallman, Callahan, Donovan, B. Jacobson, Behnke, Goeben, Kaufert, Tittl, Rodriguez, Wichgers and Wittke; \ncosponsored by Senators Hutton, Bradley, Tomczyk, Nass, Kapenga, Feyen, Cabral-Guevara and Stafsholt",
@@ -162,6 +166,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Report passage recommended by Committee on Government Operations, Accountability, and Transparency, Ayes 6, Noes 3",
+      "date": "2025-12-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2025-12-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 2-12-2026 by Committee on Rules",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -488,6 +562,17 @@
       "classification": ""
     },
     {
+      "note": "AB276: Fiscal Estimate From DSPS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab276/ab276_dsps.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "AB276: Fiscal Estimate From DWD",
       "links": [
         {
@@ -510,7 +595,7 @@
       "classification": ""
     },
     {
-      "note": "AB276 ROCP for Committee on Government Operations, Accountability, and Transparency",
+      "note": "AB276 ROCP for Committee on Government Operations, Accountability, and Transparency On 12/2/2025",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/government_operations_accountability_and_transparency/1956526",
@@ -562,7 +647,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Government Operations, Accountability, and Transparency"
+    "status": "Status: A - Tabled"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -571,6 +656,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

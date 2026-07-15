@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr47"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators L. Johnson, Larson, Ratcliff, Carpenter, Dassler-Alfheim, Drake, Keyeski, Wirch, Hesselbein, Habush Sinykin, Pfaff, Smith, Wall, Spreitzer and Roys; \ncosponsored by Representatives Sinicki, Spaude, Sheehan, Rivera-Wagner, Bare, Hong, Billings, Taylor, Miresse, Doyle, Neubauer, Kirsch, DeSmidt, Arney, Moore Omokunde, Stubbs, Snodgrass, Palmeri, Tenorio, Cruz, Ortiz-Velez, Fitzgerald, Brown, Phelps, Udell, Madison, DeSanto, Subeck, Joers, Hysell, Vining, Roe, Mayadev, Stroud, Emerson, J. Jacobson, Andraca, Prado, McCarville, Goodwin, Johnson, Haywood, Anderson, Clancy and McGuire",
@@ -41,6 +45,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
       }
     }
   ],
@@ -186,6 +202,17 @@
   ],
   "documents": [
     {
+      "note": "SJR47 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985319",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -225,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

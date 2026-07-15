@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb208"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Keyeski, Pfaff, Wall, Larson, Carpenter, Ratcliff, Spreitzer, Dassler-Alfheim, Habush Sinykin, Drake, Hesselbein, Smith, Wirch and L. Johnson; \ncosponsored by Representatives Haywood, DeSanto, DeSmidt, Palmeri, Neubauer, Snodgrass, Brown, Joers, Sheehan, Stroud, Hong, Tenorio, Stubbs, Goodwin, Rivera-Wagner, Clancy, Fitzgerald, Bare, Anderson, Moore Omokunde, Behnke, Madison, Sinicki, Mayadev, Emerson, Johnson and Miresse",
@@ -76,6 +80,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -224,6 +240,17 @@
       "classification": ""
     },
     {
+      "note": "SB208 ROCP for Committee on Insurance, Housing, Rural Issues and Forestry",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/insurance_housing_rural_issues_and_forestry/1987121",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -263,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

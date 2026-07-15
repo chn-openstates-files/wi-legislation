@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr6"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Carpenter, Habush Sinykin, Bradley, Cabral-Guevara, Dassler-Alfheim, Drake, Feyen, Hesselbein, Hutton, Jacque, Jagler, Larson, Marklein, Nass, Pfaff, Quinn, Ratcliff, Roys, Smith, Spreitzer and Wirch; \ncosponsored by Representatives Knodl, Moore Omokunde, Allen, Armstrong, Arney, Bare, Behnke, Brown, Clancy, Cruz, DeSanto, DeSmidt, Dittrich, Donovan, Doyle, Emerson, Fitzgerald, Goodwin, Green, Gundrum, Hong, J. Jacobson, Joers, Kaufert, Kirsch, Kreibich, Krug, Madison, Mayadev, Melotik, Miresse, Moses, Murphy, Mursau, Nedweski, Neylon, Novak, O'Connor, Ortiz-Velez, Petersen, Phelps, Piwowarczyk, Pronschinske, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Snyder, Stroud, Subeck, Swearingen, Taylor, Tenorio, Tusler, Udell, Vining and Wichgers",
@@ -199,6 +203,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Not published. Enrolled Joint Resolution 8",
+      "date": "2026-05-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -446,6 +462,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

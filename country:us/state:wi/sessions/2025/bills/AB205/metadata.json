@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab205"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Johnson, Anderson, Bare, Behnke, Billings, DeSmidt, Goodwin, Joers, Kirsch, Miresse, Palmeri, Roe, Sortwell, Tenorio and Udell; \ncosponsored by Senators Roys, Cabral-Guevara, Hesselbein, Keyeski, Pfaff, Tomczyk and Wall",
@@ -54,6 +58,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -199,6 +215,17 @@
   ],
   "documents": [
     {
+      "note": "AB205 ROCP for Committee on Jobs and Economy",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/jobs_and_economy/1987698",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -238,6 +265,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

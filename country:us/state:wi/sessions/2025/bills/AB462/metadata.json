@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab462"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Emerson, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining; \ncosponsored by Senators Wirch, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer and Wall",
@@ -262,6 +266,42 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-02-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -768,10 +808,32 @@
       "classification": ""
     },
     {
+      "note": "AB462: Fiscal Estimate From DSPS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab462/ab462_dsps.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "AB462: Fiscal Estimate From DVA",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab462/ab462_dva.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB462: Fiscal Estimate From DWD",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab462/ab462_dwd.pdf",
           "media_type": ""
         }
       ],
@@ -856,6 +918,17 @@
       "classification": ""
     },
     {
+      "note": "AB462 ROCP for Committee on Workforce Development, Labor, and Integrated Employment",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/workforce_development_labor_and_integrated_employment/1985893",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -884,6 +957,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

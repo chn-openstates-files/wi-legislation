@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab332"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Snodgrass, Andraca, Palmeri, Joers, Mayadev, Stubbs, Bare, Brown, Clancy, DeSmidt, Madison, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Rivera-Wagner, Roe, Sinicki, Subeck, Tenorio and Kirsch; \ncosponsored by Senators Larson, Roys, Ratcliff, Spreitzer, Carpenter, Dassler-Alfheim, Hesselbein and Smith",
@@ -34,6 +38,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative Udell added as a coauthor",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -235,6 +261,17 @@
   ],
   "documents": [
     {
+      "note": "AB332 ROCP for Committee on Transportation",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/transportation/1985637",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -285,6 +322,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

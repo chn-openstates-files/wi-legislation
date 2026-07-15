@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr34"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators James, Pfaff, Dassler-Alfheim, L. Johnson, Keyeski, Ratcliff, Roys, Spreitzer, Testin and Wall; \ncosponsored by Representatives VanderMeer, Billings, Dittrich, Clancy, DeSmidt, Doyle, Duchow, Gundrum, J. Jacobson, Joers, Johnson, Kitchens, Krug, Kurtz, Madison, Miresse, Mursau, Ortiz-Velez, Palmeri, Phelps, Roe, Sinicki, Spaude, Stubbs and Subeck",
@@ -118,6 +122,70 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
       }
+    },
+    {
+      "description": "Representative Andraca added as a cosponsor",
+      "date": "2026-01-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 1-13-2026 by Committee on Rules",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Concurred in",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-01-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Received from Assembly concurred in",
+      "date": "2026-01-14T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Report correctly enrolled",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -205,6 +273,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled Joint Resolution",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SJR34",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SJR34.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Joint Resolution Text",
       "links": [
         {
@@ -252,7 +335,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Rules"
+    "status": "Status: S - Enrolled"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -261,6 +344,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

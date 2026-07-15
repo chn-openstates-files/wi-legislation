@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb512"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Smith, Carpenter, Dassler-Alfheim, L. Johnson, Pfaff, Ratcliff, Spreitzer, Wall, Wirch and Hesselbein; \ncosponsored by Representatives Rivera-Wagner, Snodgrass, Andraca, Arney, DeSmidt, Fitzgerald, Joers, Johnson, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Roe, Stroud, Stubbs, Udell and Palmeri",
@@ -56,6 +60,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -172,6 +198,17 @@
       "classification": ""
     },
     {
+      "note": "SB512 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987491",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -211,6 +248,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

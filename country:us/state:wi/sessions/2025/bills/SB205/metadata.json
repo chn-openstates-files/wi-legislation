@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb205"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Tomczyk, Feyen, Cabral-Guevara and James; \ncosponsored by Representatives O'Connor, Knodl, Brooks, Murphy, Armstrong, Behnke, Dittrich, Donovan, Franklin, Gundrum, Gustafson, Kreibich, Melotik, Mursau, Neylon, Novak, Piwowarczyk, Tucker and Zimmerman",
@@ -66,6 +70,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -134,6 +150,17 @@
       "classification": ""
     },
     {
+      "note": "SB205 ROCP for Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/licensing_regulatory_reform_state_and_federal_affairs/1986640",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -184,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

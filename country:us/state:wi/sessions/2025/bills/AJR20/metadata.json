@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr20"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Vining, Hurd, Anderson, Arney, Bare, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Hong, Hysell, Joers, Knodl, Madison, McCarville, Miresse, Moore Omokunde, Mursau, Neubauer, Ortiz-Velez, Phelps, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Tenorio, Udell, Subeck and Johnson; \ncosponsored by Senators Cabral-Guevara, Ratcliff, Drake, Habush Sinykin, Hesselbein, Keyeski, Larson, Pfaff, Roys and Spreitzer",
@@ -73,6 +77,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -401,6 +417,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr70"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Tenorio, Prado, Anderson, Arney, Bare, Brown, Clancy, Cruz, DeSanto, DeSmidt, Emerson, Goodwin, Hong, Joers, Kirsch, Madison, Mayadev, McCarville, Miresse, Moore Omokunde, Neubauer, Palmeri, Phelps, Rivera-Wagner, Roe, Sheehan, Sinicki, Stroud, Subeck, Taylor, Udell, Vining and Snodgrass; \ncosponsored by Senators Drake, Carpenter, Keyeski, Larson, Ratcliff, Roys, Spreitzer and Hesselbein",
@@ -41,6 +45,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -330,6 +356,17 @@
   ],
   "documents": [
     {
+      "note": "AJR70 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989144",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -369,6 +406,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

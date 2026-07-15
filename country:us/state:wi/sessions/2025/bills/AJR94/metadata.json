@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr94"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives O'Connor, Kitchens, Stubbs, Mursau, Billings, Ortiz-Velez, Bare, Brill, Anderson, Callahan, Clancy, Emerson, Fitzgerald, Franklin, Goodwin, Green, Johnson, Kaufert, Kirsch, Madison, McCarville, Melotik, Miresse, Moore Omokunde, Murphy, Novak, Phelps, Piwowarczyk, Rodriguez, Sheehan, Sinicki, Snyder, Spaude, Stroud, Taylor, Udell, Vining, Wichgers, Wittke, Behnke, Joers, Snodgrass, DeSmidt, Gundrum, Dittrich and Palmeri; \ncosponsored by Senators L. Johnson, James, Carpenter, Dassler-Alfheim, Habush Sinykin, Hesselbein, Jacque, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer, Wirch and Drake",
@@ -41,6 +45,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -434,6 +460,17 @@
   ],
   "documents": [
     {
+      "note": "AJR94 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989160",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -473,6 +510,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb586"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Dassler-Alfheim, Pfaff, Carpenter, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Brown, Miresse, Emerson, Phelps, Billings, DeSmidt, Stroud, Joers, Anderson, Andraca, Arney, Bare, Clancy, DeSanto, Doyle, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Moore Omokunde, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining",
@@ -46,6 +50,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -202,6 +218,17 @@
       "classification": ""
     },
     {
+      "note": "SB586 ROCP for Committee on Universities and Technical Colleges",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/universities_and_technical_colleges/1984912",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -241,6 +268,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

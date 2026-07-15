@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb147"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Wanggaard, Cabral-Guevara and Tomczyk; \ncosponsored by Representatives Duchow, Allen, Armstrong, Brill, Dittrich, Donovan, Gundrum, Kitchens, Knodl, Maxey, Murphy, Mursau, Neylon, Novak, O'Connor, Ortiz-Velez, Penterman, Piwowarczyk, Rodriguez, Sortwell, Steffen and Wichgers",
@@ -202,6 +206,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
       }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -287,6 +303,17 @@
       "classification": ""
     },
     {
+      "note": "SB147 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989207",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB147 ROCP for Committee on Judiciary and Public Safety On 5/8/2025",
       "links": [
         {
@@ -348,6 +375,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

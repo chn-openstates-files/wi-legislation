@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab694"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Joers, Anderson, Arney, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, Madison, McCarville, Palmeri, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stubbs, Subeck, Taylor, Udell, Prado, Tenorio, Moore Omokunde and Miresse; \ncosponsored by Senators Ratcliff, Spreitzer, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Larson, Roys, Wall and Carpenter",
@@ -34,6 +38,52 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -243,10 +293,54 @@
   ],
   "documents": [
     {
+      "note": "AB694: Fiscal Estimate From DNR",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab694/ab694_dnr.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB694: Fiscal Estimate From DOT",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab694/ab694_dot.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB694 ROCP for Committee on Forestry, Parks and Outdoor Recreation",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/forestry_parks_and_outdoor_recreation/1986127",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
           "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGAB694",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Senate Bill 690",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb690",
           "media_type": "text/html"
         }
       ],
@@ -271,6 +365,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

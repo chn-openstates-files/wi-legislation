@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb541"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators L. Johnson, Carpenter, Dassler-Alfheim, Habush Sinykin, Hesselbein, Keyeski, Larson, Ratcliff, Roys, Smith, Spreitzer and Wirch; \ncosponsored by Representatives Sinicki, Sheehan, Goodwin, Hong, Andraca, Miresse, Arney, Bare, Brown, Anderson, Clancy, DeSmidt, Doyle, Joers, Kirsch, Madison, Mayadev, McCarville, Moore Omokunde, Ortiz-Velez, Phelps, Roe, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Fitzgerald and Udell",
@@ -44,6 +48,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -165,6 +193,28 @@
   ],
   "documents": [
     {
+      "note": "SB541: Fiscal Estimate From DWD",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb541/sb541_dwd.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB541 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987481",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -204,6 +254,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

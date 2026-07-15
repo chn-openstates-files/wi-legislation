@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb425"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Pfaff, Keyeski, Wall, Dassler-Alfheim, Drake, Hesselbein, Ratcliff, L. Johnson and Habush Sinykin; \ncosponsored by Representatives J. Jacobson, Brown, Spaude, Palmeri, Goodwin, Udell, Fitzgerald, Miresse, Snodgrass, Joers, Subeck, DeSmidt, Roe, Johnson, Clancy, Ortiz-Velez and Anderson",
@@ -66,6 +70,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Senator Smith added as a coauthor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -174,6 +200,17 @@
       "classification": ""
     },
     {
+      "note": "SB425 ROCP for Committee on Agriculture and Revenue",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/agriculture_and_revenue/1988548",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -213,6 +250,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

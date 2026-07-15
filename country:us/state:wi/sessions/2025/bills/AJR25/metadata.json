@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr25"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Penterman, Tusler, Subeck, Bare, Callahan, Clancy, DeSmidt, Dittrich, Emerson, Franklin, Gundrum, Hong, Kaufert, Knodl, Kreibich, Madison, Miresse, Moses, Murphy, Mursau, O'Connor, Ortiz-Velez, Phelps, Rodriguez, Sinicki, Snodgrass, Steffen, Stubbs, Udell and Andraca; \ncosponsored by Senators Cabral-Guevara, Dassler-Alfheim, Jacque, Jagler, Marklein, Nass, Ratcliff, Roys and Tomczyk",
@@ -103,6 +107,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -407,6 +423,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

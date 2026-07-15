@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab319"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Andraca, Stubbs, Fitzgerald, Joers, Subeck, Vining, Kirsch, Brown, Bare, Sinicki, Roe, Hysell, Neubauer, Taylor, Snodgrass, Mayadev, Sheehan, Miresse, Udell, Arney, Emerson, Prado, Tenorio, Moore Omokunde, Palmeri, DeSmidt, Stroud, Anderson, Cruz, Goodwin, J. Jacobson and Haywood; \ncosponsored by Senators L. Johnson, Larson, Hesselbein, Keyeski, Roys, Smith, Ratcliff, Habush Sinykin, Carpenter, Dassler-Alfheim, Spreitzer and Drake",
@@ -64,6 +68,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -345,6 +361,17 @@
   ],
   "documents": [
     {
+      "note": "AB319 ROCP for Committee on Judiciary",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/judiciary/1987357",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -384,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

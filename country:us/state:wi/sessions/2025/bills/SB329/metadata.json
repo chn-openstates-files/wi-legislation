@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb329"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators L. Johnson, Larson, Hesselbein, Roys, Drake, Keyeski, Smith, Ratcliff, Habush Sinykin, Carpenter, Dassler-Alfheim and Spreitzer; \ncosponsored by Representatives Andraca, Stubbs, Fitzgerald, Joers, Subeck, Vining, Kirsch, Bare, Brown, Sinicki, Roe, Hysell, Neubauer, Taylor, Snodgrass, Mayadev, Sheehan, Miresse, Udell, Arney, Emerson, Prado, Tenorio, Moore Omokunde, Palmeri, DeSmidt, Stroud, Anderson, Cruz, Goodwin, Johnson and Haywood",
@@ -76,6 +80,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -208,6 +224,17 @@
       "classification": ""
     },
     {
+      "note": "SB329 ROCP for Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/licensing_regulatory_reform_state_and_federal_affairs/1986630",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -247,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

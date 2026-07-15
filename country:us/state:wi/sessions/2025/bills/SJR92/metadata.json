@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr92"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Hesselbein, Cabral-Guevara, Carpenter, Drake, Larson, Ratcliff, Roys, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Tenorio, Andraca, Arney, Clancy, DeSmidt, Fitzgerald, Goodwin, Hong, Joers, Kirsch, Madison, McCarville, Miresse, Neubauer, Ortiz-Velez, Phelps, Prado, Roe, Sheehan, Stubbs, Subeck, Johnson, Udell, Vining, Cruz and Palmeri",
@@ -78,7 +82,7 @@
     {
       "description": "Ordered immediately messaged",
       "date": "2025-10-14T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -169,6 +173,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Representative Mayadev added as a cosponsor",
+      "date": "2025-12-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -328,6 +352,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

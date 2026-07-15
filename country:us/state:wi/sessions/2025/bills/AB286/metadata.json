@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab286"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Wittke, Behnke, Brill, Brooks, Dittrich, Donovan, Duchow, Goeben, Green, Kaufert, Kitchens, Knodl, Kreibich, Melotik, Murphy, Mursau, Nedweski, O'Connor, Penterman and Tittl; \ncosponsored by Senators Wimberger, Bradley, Felzkowski, Feyen, Jacque, James, Kapenga, Marklein, Nass, Quinn and Tomczyk",
@@ -44,6 +48,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Public hearing held",
+      "date": "2025-06-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:37Z"
       }
     }
   ],
@@ -290,6 +316,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:37Z"
   }
 }

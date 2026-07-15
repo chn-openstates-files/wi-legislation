@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab321"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Joers, Fitzgerald, Subeck, Hong, Andraca, Stubbs, Vining, Clancy, Arney, Bare, Brown, Cruz, DeSmidt, Emerson, Goodwin, Hysell, Haywood, Johnson, Kirsch, Mayadev, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Stroud, Taylor, Tenorio and Udell; \ncosponsored by Senators Hesselbein, L. Johnson, Larson, Roys, Dassler-Alfheim, Drake, Habush Sinykin, Keyeski, Ratcliff, Smith, Spreitzer and Carpenter",
@@ -54,6 +58,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -351,6 +377,17 @@
   ],
   "documents": [
     {
+      "note": "AB321 ROCP for Committee on Criminal Justice and Public Safety",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/criminal_justice_and_public_safety/1985429",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -390,6 +427,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb271"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Roys, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Ratcliff, Carpenter, Larson, Pfaff, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Subeck, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Taylor, Tenorio, Udell and Vining",
@@ -94,6 +98,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -272,6 +300,17 @@
       "classification": ""
     },
     {
+      "note": "SB271: Fiscal Estimate From DSPS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb271/sb271_dsps.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB271: Fiscal Estimate From ETF",
       "links": [
         {
@@ -288,6 +327,17 @@
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb271/sb271_inins.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB271 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987526",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -333,6 +383,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

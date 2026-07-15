@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab198"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Kurtz, Novak, Summerfield, Dittrich, Donovan, Duchow, Franklin, Goeben, Green, Gustafson, Kaufert, Kitchens, Knodl, Maxey, Melotik, Murphy, Mursau, Ortiz-Velez, Palmeri, Piwowarczyk, Steffen, Subeck, VanderMeer and Nedweski; \ncosponsored by Senators Marklein, James, Cabral-Guevara, Nass, Pfaff and Testin",
@@ -218,6 +222,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -551,6 +567,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

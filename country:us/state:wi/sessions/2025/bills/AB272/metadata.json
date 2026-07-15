@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab272"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Roe, Anderson, Arney, Bare, Billings, Brown, Cruz, DeSanto, DeSmidt, Dittrich, Emerson, Joers, Madison, Miresse, Ortiz-Velez, Palmeri, Rivera-Wagner, Snodgrass, Stubbs, Subeck, Tenorio and Udell; \ncosponsored by Senators Spreitzer, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Keyeski, Larson, Ratcliff, Roys and Wirch",
@@ -66,6 +70,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -278,6 +294,17 @@
       "classification": ""
     },
     {
+      "note": "AB272 ROCP for Committee on Health, Aging and Long-Term Care",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/health_aging_and_long_term_care/1988843",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -317,6 +344,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

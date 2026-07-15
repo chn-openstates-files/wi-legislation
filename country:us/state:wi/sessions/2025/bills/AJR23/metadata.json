@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr23"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Subeck, Kaufert, Bare, Brown, Clancy, DeSmidt, Emerson, Joers, Kitchens, Knodl, Madison, McCarville, Melotik, Miresse, Murphy, Mursau, Novak, Ortiz-Velez, Piwowarczyk, Roe, Stubbs, Tranel, Udell, Vining and Wittke; \ncosponsored by Senators Cabral-Guevara, Carpenter, Drake, Hesselbein, L. Johnson, Ratcliff, Roys, Spreitzer, Wanggaard and Wirch",
@@ -93,6 +97,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -357,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

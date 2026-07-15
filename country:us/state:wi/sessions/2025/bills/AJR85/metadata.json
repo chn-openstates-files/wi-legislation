@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ajr85"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Brown, Arney, DeSmidt, Emerson, Fitzgerald, Johnson, McCarville, Miresse, Murphy, Mursau, Prado, Roe, Sheehan, Sinicki, Stroud, Stubbs, Tenorio and Udell; \ncosponsored by Senators Spreitzer, Cabral-Guevara, Drake, Hesselbein, Larson, Marklein, Ratcliff and Roys",
@@ -183,6 +187,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:55Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a coauthor",
+      "date": "2026-01-08T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -406,6 +420,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:55Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

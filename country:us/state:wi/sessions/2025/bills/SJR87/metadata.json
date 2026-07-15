@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr87"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Wimberger, Bradley, Carpenter, Dassler-Alfheim, Drake, Jagler, Keyeski, Larson, Marklein, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Tomczyk, Wall, Wanggaard and Wirch; \ncosponsored by Representatives Kurtz, Penterman, Anderson, Andraca, Armstrong, Behnke, Callahan, DeSmidt, Dittrich, Doyle, Duchow, Fitzgerald, Green, Gundrum, Gustafson, B. Jacobson, Johnson, Kaufert, Kirsch, Kitchens, Knodl, Kreibich, Krug, McCarville, Melotik, Miresse, Murphy, Mursau, Nedweski, Novak, O'Connor, Ortiz-Velez, Petersen, Piwowarczyk, Prado, Pronschinske, Rivera-Wagner, Roe, Sinicki, Snodgrass, Snyder, Sortwell, Spiros, Steffen, Stroud, Stubbs, Subeck, Tranel, Tusler, Udell, Wichgers, Wittke and Zimmerman",
@@ -61,6 +65,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -230,6 +256,17 @@
   ],
   "documents": [
     {
+      "note": "SJR87 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985243",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -269,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

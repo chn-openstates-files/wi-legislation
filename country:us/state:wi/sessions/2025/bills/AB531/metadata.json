@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab531"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Joers, McCarville, Andraca, Arney, Bare, DeSmidt, Fitzgerald, Goodwin, Hong, Johnson, Kirsch, Mayadev, Ortiz-Velez, Palmeri, Roe, Sheehan, Sinicki, Stubbs, Taylor, Tenorio and Udell; \ncosponsored by Senators Ratcliff, Habush Sinykin, Dassler-Alfheim, Hesselbein, Larson, Roys, Smith and Spreitzer",
@@ -64,6 +68,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:56Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:35Z"
       }
     }
   ],
@@ -257,6 +273,17 @@
   ],
   "documents": [
     {
+      "note": "AB531 ROCP for Committee on State Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/state_affairs/1989775",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -296,6 +323,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:56Z"
+    "logs_latest_update": "2026-07-15T13:51:35Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab43"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Kitchens, Rodriguez, Franklin, Duchow, Novak, Snyder, Zimmerman, August, Bare, Dittrich, Hong, Hysell, J. Jacobson, Krug, Miresse, Mursau, Nedweski, Neubauer, Phelps, Piwowarczyk, Sheehan, Spiros, Stroud, Subeck, Kirsch and Sinicki; \ncosponsored by Senators Cabral-Guevara, James and Marklein",
@@ -364,6 +368,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
       }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -629,6 +645,17 @@
       "classification": ""
     },
     {
+      "note": "AB43 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985309",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -679,6 +706,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

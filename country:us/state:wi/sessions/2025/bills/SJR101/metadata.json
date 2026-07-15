@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr101"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Jacque, Carpenter, Dassler-Alfheim, Hesselbein, Larson, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Goodwin, Moore Omokunde, Allen, Andraca, Bare, Behnke, Clancy, Brill, DeSmidt, Dittrich, Donovan, Fitzgerald, Gundrum, Johnson, Kaufert, Kreibich, Kurtz, Melotik, Miresse, Murphy, Mursau, O'Connor, Ortiz-Velez, Rivera-Wagner, Sinicki, Snodgrass, Spiros, Stroud, Stubbs, Subeck, Taylor, Tenorio, Vining and Palmeri",
@@ -95,6 +99,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-03-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -247,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

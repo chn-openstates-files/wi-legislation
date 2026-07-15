@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab236"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Murphy, Behnke, Brill, Dittrich, Franklin, Gundrum, B. Jacobson, Kaufert, Kreibich, Maxey, Mursau, Subeck and Wichgers; \ncosponsored by Senator Jacque",
@@ -74,6 +78,64 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2025-12-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Report Assembly Amendment 1 adoption recommended by Committee on Criminal Justice and Public Safety, Ayes 14, Noes 0",
+      "date": "2025-12-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Report passage as amended recommended by Committee on Criminal Justice and Public Safety, Ayes 14, Noes 0",
+      "date": "2025-12-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2025-12-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -214,10 +276,32 @@
       "classification": ""
     },
     {
-      "note": "AB236 ROCP for Committee on Criminal Justice and Public Safety",
+      "note": "LC Amendment Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcamendmentmemos/2025/REG/AB236.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB236 ROCP for Committee on Criminal Justice and Public Safety On 12/17/2025",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/criminal_justice_and_public_safety/1943985",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB236 ROCP for Committee on Rules",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/rules/1989239",
           "media_type": "text/html"
         }
       ],
@@ -266,7 +350,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Criminal Justice and Public Safety"
+    "status": "Status: A - Rules"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -275,6 +359,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

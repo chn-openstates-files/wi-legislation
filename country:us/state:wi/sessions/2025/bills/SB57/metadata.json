@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb57"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Senators Bradley, Jacque, Kapenga, Nass, Quinn, Testin, Tomczyk and Wanggaard; \ncosponsored by Representatives Vos, Piwowarczyk, Allen, Armstrong, August, Behnke, Brill, Callahan, Dallman, Dittrich, Donovan, Duchow, Goeben, Green, Gundrum, Hurd, B. Jacobson, Knodl, Kreibich, Krug, Maxey, Murphy, Mursau, Nedweski, O'Connor, Penterman, Petersen, Sortwell, Spiros, Steffen, Swearingen, Tittl, Tucker, Tusler, Wichgers, Zimmerman and Gustafson",
@@ -122,6 +126,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -281,6 +297,17 @@
       "classification": ""
     },
     {
+      "note": "SB57 ROCP for Committee on Senate Organization",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/senate_organization/1985274",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -322,7 +349,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Available for Scheduling"
+    "status": "Status: S - Hold (Available for Scheduling)"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -331,6 +358,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }

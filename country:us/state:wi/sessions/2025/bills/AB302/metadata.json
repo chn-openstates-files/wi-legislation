@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab302"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Kaufert, Tranel, Callahan, Clancy, DeSmidt, Goeben, Gundrum, Johnson, Knodl, Kreibich, Madison, Maxey, O'Connor, Penterman, Subeck, Wichgers and Wittke; \ncosponsored by Senators Bradley, Spreitzer, Dassler-Alfheim, Feyen, Keyeski, Ratcliff, Testin and Wirch",
@@ -353,6 +357,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 12-9-2025. 2025 Wisconsin Act 52",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Published 12-10-2025",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -496,21 +536,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Text as Enrolled",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB302",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB302.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Bill Text",
       "links": [
         {
@@ -527,6 +552,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "2025 Wisconsin Act 52",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/52",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 52: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%2052.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "AB302 ROCP for Committee on Transportation On 9/19/2025",
       "links": [
@@ -591,7 +638,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Enrolled"
+    "status": "Status: A - Enacted into Law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -600,6 +647,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab641"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Sinicki, Brown, Tenorio, McCarville, Andraca, Arney, Bare, Billings, Anderson, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kaufert, Kirsch, Madison, Mayadev, McGuire, Miresse, Moore Omokunde, Neubauer, Novak, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Udell and Vining; \ncosponsored by Senators Hesselbein, Wirch, Carpenter, Smith, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer and Wall",
@@ -46,6 +50,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:57Z"
+      }
+    },
+    {
+      "description": "Public hearing held",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Representative Tucker added as a coauthor",
+      "date": "2026-01-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:36Z"
       }
     }
   ],
@@ -450,6 +486,28 @@
       "classification": ""
     },
     {
+      "note": "AB641 ROCP for Committee on Veterans and Military Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/veterans_and_military_affairs/1968779",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC Bill Hearing Materials",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcbillhearingtestimonyandmaterials/2025/REG/AB641",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -489,6 +547,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:57Z"
+    "logs_latest_update": "2026-07-15T13:51:36Z"
   }
 }

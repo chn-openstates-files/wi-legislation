@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-ab97"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced by Representatives Snyder, Rodriguez, Allen, Anderson, Andraca, Arney, Bare, Behnke, Billings, Brown, Clancy, Cruz, DeSmidt, Dittrich, Donovan, Doyle, Duchow, Emerson, Fitzgerald, Franklin, Goodwin, Gundrum, Gustafson, Hong, Hysell, J. Jacobson, Joers, Johnson, Kaufert, Kirsch, Kitchens, Kreibich, Krug, Kurtz, Madison, Maxey, Mayadev, McCarville, Melotik, Miresse, Moore Omokunde, Mursau, Neubauer, Neylon, Novak, Palmeri, Petersen, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Steffen, Stroud, Stubbs, Subeck, Taylor, Tenorio, Tusler, Udell, Vining, Wichgers, Wittke and Summerfield; \ncosponsored by Senators James, Felzkowski, Bradley, Dassler-Alfheim, Drake, Feyen, Habush Sinykin, Hesselbein, Keyeski, Larson, Marklein, Pfaff, Quinn, Ratcliff, Roys, Spreitzer, Tomczyk, Wall, Wanggaard, Wimberger, Wirch and Carpenter",
@@ -128,6 +132,64 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T00:41:58Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee on Assembly Organization and referred to committee on State Affairs pursuant to Assembly Rule 42 (3)(c)",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee on State Affairs and referred to committee on Rules",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Made a special order of business at 11:03 AM on 2-19-2026 pursuant to Assembly Resolution 14",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:51:34Z"
       }
     }
   ],
@@ -730,7 +792,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Assembly Organization"
+    "status": "Status: A - Tabled"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -739,6 +801,6 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T00:41:58Z"
+    "logs_latest_update": "2026-07-15T13:51:34Z"
   }
 }
